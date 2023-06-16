@@ -3,13 +3,7 @@
     background-color: #081539;
     display: flex;
   }
-  .sticky {
-    position: fixed;
-    right: 5%;
-    bottom: 10%;
-    z-index: 10;
-    display: none;
-  }
+
 
   header .phone-logo {
     padding-right: 8px;
