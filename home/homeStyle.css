@@ -152,4 +152,32 @@ header .text-info {
   position: absolute;
   bottom: 10%;
 }
+.content {
+  text-align: center;
+}
+.content .text p {
+  padding-bottom: 30px;
+  font-size: 16px;
+}
 
+.home .first-section {
+  width: 100%;
+  position: relative;
+}
+
+.home .first-section h4 {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 12px;
+}
+
+.home .first-section p {
+  text-align: center;
+}
+
+.home .first-section img {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+}
